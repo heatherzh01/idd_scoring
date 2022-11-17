@@ -7,7 +7,7 @@
 
 .scoreboard__name,
 .scoreboard__score {
-    padding: 10px;
+    padding: 40px;
     text-align: center;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .scoreboard__score {
-    font-size: 2em;
+    font-size: 15em;
 }
 
 .scoreboard__controls {
@@ -37,7 +37,7 @@
     border: none;
     background: #eee;
     cursor: pointer;
-    font-size: 1.2em;
+    font-size: 8em;
 }
 
 .scoreboard__control-button:hover {
