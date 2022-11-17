@@ -18,10 +18,12 @@
 
 .scoreboard__name--one {
     color: #009578;
+    font-size: 2em;
 }
 
 .scoreboard__name--two {
     color: #2d0095;
+    font-size: 2em;
 }
 
 .scoreboard__score {
